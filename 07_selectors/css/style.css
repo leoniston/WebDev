@@ -1,0 +1,23 @@
+section {
+	color: blue;
+}
+
+div {
+	color: red;
+}
+
+.second {
+	color: purple;
+}
+
+#section2 {
+	color: green;
+}
+
+nav, h2 {
+	color: gray;
+}
+
+main .firstsection {
+	background: lightblue;
+}
