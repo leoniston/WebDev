@@ -1,0 +1,20 @@
+@font-face {
+	src: url(../font/ApercuPro-Medium.otf);
+	font-family: 'Apercu Medium';
+	font-weight: medium;
+}
+
+.heading h1 {
+	font-size: 500px;
+	font-weight: normal;
+	font-family: 'Apercu Medium', sans-serif;
+
+}
+
+.paragraph p {
+	font-family: 'Apercu Medium', sans-serif;
+}
+
+.paragraph2 p {
+	font-family: 'Apercu Medium', sans-serif;
+}

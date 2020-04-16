@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+.heading h1 {
+	font-size: 500px;
+	font-weight: normal;
+	font-family: 'Bangers', cursive;
+}
+
+.paragraph p {
+	font-family: 'Special Elite', cursive;
+}
+
+.paragraph2 p {
+font-family: 'Poiret One', cursive;
+}
