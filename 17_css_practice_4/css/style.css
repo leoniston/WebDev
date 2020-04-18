@@ -1,0 +1,82 @@
+@import url(reset.css);
+
+.header
+{
+	width: 1440px;
+	height: 200px;
+	background-color: #E5E000;
+}
+
+.header h1 {
+	margin-left: 80px;
+	font-family: 'Helvetica', sans-serif;
+	line-height: 200px;
+	font-size: 50px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.artist_img {
+	width: 1440px;
+	height: 1080px;
+	background-image: url(../img/img.png);
+	background-size: cover;
+	background-position: center;
+}
+
+.links {
+	width: 1440px;
+	height: 100px;
+	background-color: #E5E000;
+}
+
+.links a {
+	margin-left: 80px;
+	font-family: 'Helvetica', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 100px;
+	color: #FFFFFF;
+}
+
+.landing_text h2 {
+	margin-top: 110px;
+	margin-left: 80px;
+	font-family: 'Helvetica', sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+.landing_text p {
+	margin-top: 50px;
+	margin-left: 80px;
+	margin-bottom: 50px;
+	font-family: 'Helvetica', sans-serif;
+	line-height: 57px;
+	font-weight: normal;
+	font-size: 50px;
+}
+
+
+.footer_content {
+	width: 1440px;
+	height: 200px;
+	background-color: #E5E000;
+}
+
+.footer_content img {
+	margin-left: 80px;
+	margin-top: 77px;
+	width: 205px;
+	height: 46px;
+}
+
+.footer_content a {
+	line-height: 200px;
+	margin-left: 461px;
+	font-family: 'Helvetica', sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+    color: #FFFFFF;
+}
+
